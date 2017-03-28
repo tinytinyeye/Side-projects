@@ -1,5 +1,4 @@
 {
-	"netid" : "qh5",
 	"frontend" : "http://sore-cake.surge.sh/",
 	"backend" : "https://ricebook-server.herokuapp.com/"
 }
